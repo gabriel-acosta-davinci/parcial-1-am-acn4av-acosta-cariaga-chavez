@@ -8,159 +8,33 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:padding="16dp">
+        android:padding="10dp">
 
         <!-- Logo y nombre de la app -->
-        <ImageView
-            android:id="@+id/logoImage"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            android:src="@drawable/logo"
-            android:layout_marginTop="30dp"
-            android:layout_marginBottom="4dp"/>
-
-        <TextView
-            android:id="@+id/appName"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="MedicalShift"
-            android:textSize="22sp"
-            android:textColor="#FFFFFF"
-            android:fontFamily="@font/inter"
-            android:textStyle="bold"
-            android:layout_marginBottom="12dp"/>
-
-        <!-- Saludo personalizado -->
-        <TextView
-            android:id="@+id/greeting"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="¡Hola, Gabriel!"
-            android:textSize="18sp"
-            android:textColor="#FFFFFF"
-            android:fontFamily="@font/inter"
-            android:layout_marginBottom="16dp"/>
-        <LinearLayout
-            android:id="@+id/dynamicContainer"
+        <include
+            layout="@layout/component_home_header"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:layout_marginBottom="16dp"/>
+            android:layout_marginBottom="10dp"/>
 
         <!-- Credencial digital -->
-        <LinearLayout
-            android:id="@+id/userCard"
+        <include
+            layout="@layout/component_user_card"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:background="@drawable/bg_user_card"
-            android:padding="16dp"
-            android:layout_marginBottom="24dp">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Nombre: Gabriel Hernán Acosta"
-                android:fontFamily="@font/inter"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Asociado Nº: 45136715"
-                android:fontFamily="@font/inter"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Token: 727"
-                android:fontFamily="@font/inter"/>
-        </LinearLayout>
+            android:layout_marginBottom="24dp"/>
 
         <!-- Últimos trámites -->
-        <LinearLayout
+        <include
+            layout="@layout/component_tramites"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center_vertical"
-            android:layout_marginBottom="8dp">
-
-            <TextView
-                android:id="@+id/titleTramites"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Últimos Trámites"
-                android:textStyle="bold"
-                android:fontFamily="@font/inter"
-                android:textColor="#FFFFFF"/>
-            <Button
-                android:id="@+id/btnVerTramites"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Ver todos"
-                android:textSize="14sp"
-                android:fontFamily="@font/inter"
-                android:backgroundTint="#FFFFFF"
-                android:textColor="#2196F3"
-                android:layout_marginStart="12dp"
-                android:minHeight="0dp"
-                android:minWidth="0dp"/>
-        </LinearLayout>
-
-
-        <!-- RecyclerView para trámites -->
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerTramites"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="24dp"/>
+            android:layout_height="wrap_content"/>
 
         <!-- Cartilla médica -->
-        <LinearLayout
+        <include
+            layout="@layout/component_cartilla"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center_vertical"
-            android:layout_marginBottom="8dp">
-
-            <TextView
-                android:id="@+id/titleCartilla"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Cartilla Médica"
-                android:textStyle="bold"
-                android:fontFamily="@font/inter"
-                android:textColor="#FFFFFF"/>
-
-            <Button
-                android:id="@+id/btnVerCartilla"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Ver cartilla"
-                android:textSize="14sp"
-                android:fontFamily="@font/inter"
-                android:backgroundTint="#FFFFFF"
-                android:textColor="#2196F3"
-                android:layout_marginStart="12dp"
-                android:minHeight="0dp"
-                android:minWidth="0dp"/>
-        </LinearLayout>
-
-        <EditText
-            android:id="@+id/searchCartilla"
-            android:layout_width="match_parent"
-            android:layout_height="48dp"
-            android:hint="Nueva búsqueda"
-            android:fontFamily="@font/inter"
-            android:background="@android:color/white"
-            android:padding="12dp"
-            android:layout_marginBottom="32dp"/>
-
-        <!-- RecyclerView para resultados de cartilla médica -->
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerCartilla"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="24dp"/>
+            android:layout_height="wrap_content"/>
 
     </LinearLayout>
 </ScrollView>

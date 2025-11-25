@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Dr. Rodrigo Corte",
+    "especialidad": "CARDIOLOGIA",
+    "institucion": "Clínica del Corazón Atlántico",
+    "direccion": "Av. Independencia 1234",
+    "localidad": "Mar del Plata",
+    "telefono": "223-4000000"
+  },
+  {
+    "nombre": "Lic. Maribel Cordova",
+    "especialidad": "FONOAUDIOLOGIA",
+    "institucion": "Centro Auditivo Mar del Plata",
+    "direccion": "Av. Colón 3629",
+    "localidad": "Mar del Plata",
+    "telefono": "223-4992656"
+  },
+  {
+    "nombre": "Dr. Gastón Corte",
+    "especialidad": "TRAUMATOLOGIA Y ORTOPEDIA",
+    "institucion": "Instituto Ortopédico del Sur",
+    "direccion": "La Rioja 1370",
+    "localidad": "Mar del Plata",
+    "telefono": "223-4921565"
+  },
+  {
+    "nombre": "Dra. Laura Benítez",
+    "especialidad": "DERMATOLOGIA",
+    "institucion": "Dermacenter La Plata",
+    "direccion": "Calle 12 N°456",
+    "localidad": "La Plata",
+    "telefono": "221-4000001"
+  },
+  {
+    "nombre": "Dr. Martín Ríos",
+    "especialidad": "NEUROLOGIA",
+    "institucion": "Instituto Neurológico Rosario",
+    "direccion": "Bv. Oroño 789",
+    "localidad": "Rosario",
+    "telefono": "341-4000002"
+  },
+  {
+    "nombre": "Lic. Paula Gómez",
+    "especialidad": "PSICOLOGIA",
+    "institucion": "Centro Psicológico Córdoba",
+    "direccion": "Av. Colón 1500",
+    "localidad": "Córdoba",
+    "telefono": "351-4000003"
+  },
+  {
+    "nombre": "Dr. Javier Medina",
+    "especialidad": "UROLOGIA",
+    "institucion": "Urocentro Bahía Blanca",
+    "direccion": "Av. Alem 200",
+    "localidad": "Bahía Blanca",
+    "telefono": "291-4000004"
+  },
+  {
+    "nombre": "Dra. Carla López",
+    "especialidad": "PEDIATRIA",
+    "institucion": "Consultorio Infantil Mendoza",
+    "direccion": "Av. San Martín 300",
+    "localidad": "Mendoza",
+    "telefono": "261-4000005"
+  },
+  {
+    "nombre": "Lic. Nicolás Torres",
+    "especialidad": "KINESIOLOGIA",
+    "institucion": "RehabTuc",
+    "direccion": "25 de Mayo 400",
+    "localidad": "San Miguel de Tucumán",
+    "telefono": "381-4000006"
+  },
+  {
+    "nombre": "Dra. Ana Fernández",
+    "especialidad": "GINECOLOGIA",
+    "institucion": "Clínica Mujer Posadas",
+    "direccion": "Av. Mitre 500",
+    "localidad": "Posadas",
+    "telefono": "376-4000007"
+  }
+]

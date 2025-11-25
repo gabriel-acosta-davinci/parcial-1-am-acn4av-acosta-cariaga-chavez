@@ -4,68 +4,73 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
-public class ProfesionalAdapter extends RecyclerView.Adapter<ProfesionalAdapter.ProfesionalViewHolder> {
+public class ProfesionalAdapter extends RecyclerView.Adapter<ProfesionalAdapter.ViewHolder> {
 
-    private List<Profesional> listaOriginal;
-    private List<Profesional> listaFiltrada;
+    private List<Profesional> listaMostrada;
+    private final List<Profesional> listaCompleta;
 
-    public ProfesionalAdapter(List<Profesional> lista) {
-        this.listaOriginal = lista;
-        this.listaFiltrada = new ArrayList<>(lista);
+    public ProfesionalAdapter(List<Profesional> listaProfesionales) {
+        this.listaCompleta = new ArrayList<>(listaProfesionales);
+        this.listaMostrada = new ArrayList<>();
+        mostrarOriginales();
     }
 
     @NonNull
     @Override
-    public ProfesionalViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View vista = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_profesional, parent, false);
-        return new ProfesionalViewHolder(vista);
+    public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_profesional, parent, false);
+        return new ViewHolder(view);
     }
 
     @Override
-    public void onBindViewHolder(@NonNull ProfesionalViewHolder holder, int position) {
-        Profesional p = listaFiltrada.get(position);
-        holder.nombre.setText(p.getNombre());
-        holder.especialidad.setText(p.getEspecialidad());
-        holder.localidad.setText(p.getLocalidad());
+    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+        Profesional profesional = listaMostrada.get(position);
+        holder.nombre.setText(profesional.getNombre());
+        holder.especialidad.setText(profesional.getEspecialidad());
     }
 
     @Override
     public int getItemCount() {
-        return listaFiltrada.size();
+        return listaMostrada.size();
     }
 
     public void filtrar(String texto) {
-        listaFiltrada.clear();
+        listaMostrada.clear();
         if (texto.isEmpty()) {
-            listaFiltrada.addAll(listaOriginal);
+            mostrarOriginales();
         } else {
-            texto = texto.toLowerCase();
-            for (Profesional p : listaOriginal) {
-                if (p.getNombre().toLowerCase().contains(texto) ||
-                        p.getEspecialidad().toLowerCase().contains(texto) ||
-                        p.getLocalidad().toLowerCase().contains(texto)) {
-                    listaFiltrada.add(p);
+            String textoBusqueda = texto.toLowerCase(Locale.getDefault());
+            for (Profesional profesional : listaCompleta) {
+                if (profesional.getNombre().toLowerCase(Locale.getDefault()).contains(textoBusqueda)) {
+                    listaMostrada.add(profesional);
                 }
             }
         }
         notifyDataSetChanged();
     }
 
-    static class ProfesionalViewHolder extends RecyclerView.ViewHolder {
-        TextView nombre, especialidad, localidad;
+    public void mostrarOriginales() {
+        listaMostrada.clear();
+        for (int i = 0; i < Math.min(3, listaCompleta.size()); i++) {
+            listaMostrada.add(listaCompleta.get(i));
+        }
+    }
 
-        public ProfesionalViewHolder(@NonNull View itemView) {
+    static class ViewHolder extends RecyclerView.ViewHolder {
+        TextView nombre;
+        TextView especialidad;
+
+        public ViewHolder(@NonNull View itemView) {
             super(itemView);
-            nombre = itemView.findViewById(R.id.nombreProfesional);
-            especialidad = itemView.findViewById(R.id.especialidadProfesional);
-            localidad = itemView.findViewById(R.id.localidadProfesional);
+            // IDs Corregidos
+            nombre = itemView.findViewById(R.id.nombreProfesional); 
+            especialidad = itemView.findViewById(R.id.especialidadProfesional); 
         }
     }
 }

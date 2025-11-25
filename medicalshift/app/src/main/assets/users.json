@@ -1,0 +1,92 @@
+[
+  {
+    "Nombre Completo": "Gabriel Acosta",
+    "Número de documento": "35123456",
+    "Número de teléfono": "+54 221 555-0101",
+    "Email": "gabriel.acosta@example.com",
+    "Plan": "Plan Platino",
+    "Número de asociado": "123456-01",
+    "Fecha de nacimiento": "1990-05-15",
+    "Estado Civil": "Concubino/a",
+    "Domicilio de Residencia": {
+      "Calle": "Av. 7",
+      "Número": 123,
+      "Piso": "3",
+      "Dpto": "A",
+      "Localidad": "Mar del Plata",
+      "Provincia": "Buenos Aires"
+    }
+  },
+  {
+    "Nombre Completo": "Sofía Martínez",
+    "Número de documento": "40987654",
+    "Número de teléfono": "+54 11 555-0102",
+    "Email": "sofia.martinez@example.com",
+    "Plan": "Plan Bronce",
+    "Número de asociado": "654321-02",
+    "Fecha de nacimiento": "1995-11-20",
+    "Estado Civil": "Soltero/a",
+    "Domicilio de Residencia": {
+      "Calle": "Av. Corrientes",
+      "Número": 1234,
+      "Piso": "10",
+      "Dpto": "B",
+      "Localidad": "CABA",
+      "Provincia": "Buenos Aires"
+    }
+  },
+  {
+    "Nombre Completo": "Carlos Gómez",
+    "Número de documento": "30111222",
+    "Número de teléfono": "+54 351 555-0103",
+    "Email": "carlos.gomez@example.com",
+    "Plan": "Plan Plata",
+    "Número de asociado": "789012-03",
+    "Fecha de nacimiento": "1985-02-10",
+    "Estado Civil": "Casado/a",
+    "Domicilio de Residencia": {
+      "Calle": "Bv. San Juan",
+      "Número": 550,
+      "Piso": null,
+      "Dpto": null,
+      "Localidad": "Córdoba",
+      "Provincia": "Córdoba"
+    }
+  },
+  {
+    "Nombre Completo": "Valentina Rodríguez",
+    "Número de documento": "42333444",
+    "Número de teléfono": "+54 223 555-0104",
+    "Email": "valentina.r@example.com",
+    "Plan": "Plan Oro",
+    "Número de asociado": "345678-04",
+    "Fecha de nacimiento": "1998-08-30",
+    "Estado Civil": "Soltero/a",
+    "Domicilio de Residencia": {
+      "Calle": "Av. Colón",
+      "Número": 2100,
+      "Piso": "5",
+      "Dpto": "C",
+      "Localidad": "Mar del Plata",
+      "Provincia": "Buenos Aires"
+    }
+  },
+  {
+    "Nombre Completo": "Mateo Fernández",
+    "Número de documento": "38555666",
+    "Número de teléfono": "+54 221 555-0105",
+    "Email": "mateo.fernandez@example.com",
+    "Plan": "Plan Bronce",
+    "Número de asociado": "901234-05",
+    "Fecha de nacimiento": "1993-12-01",
+    "Estado Civil": "Casado/a",
+    "Domicilio de Residencia": {
+      "Calle": "Calle 45",
+      "Número": 810,
+      "Piso": null,
+      "Dpto": null,
+      "Localidad": "La Plata",
+      "Provincia": "Buenos Aires"
+    }
+  }
+]

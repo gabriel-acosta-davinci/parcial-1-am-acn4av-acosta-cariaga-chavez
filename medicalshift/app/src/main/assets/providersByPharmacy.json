@@ -1,0 +1,107 @@
+{
+  "Mar del Plata": [
+    {
+      "nombre": "Farmacia Atlántico",
+      "direccion": "Av. Independencia 1200",
+      "telefono": "223-4800401"
+    }
+  ],
+  "La Plata": [
+    {
+      "nombre": "Farmacia Central La Plata",
+      "direccion": "Calle 10 N°456",
+      "telefono": "221-4800402"
+    }
+  ],
+  "Rosario": [
+    {
+      "nombre": "Farmacia Oroño",
+      "direccion": "Bv. Oroño 2100",
+      "telefono": "341-4800403"
+    }
+  ],
+  "Córdoba": [
+    {
+      "nombre": "Farmacia Mediterránea",
+      "direccion": "Av. Colón 2800",
+      "telefono": "351-4800404"
+    }
+  ],
+  "Mendoza": [
+    {
+      "nombre": "Farmacia San Martín",
+      "direccion": "Av. San Martín 600",
+      "telefono": "261-4800405"
+    }
+  ],
+  "San Miguel de Tucumán": [
+    {
+      "nombre": "Farmacia Tucumán",
+      "direccion": "25 de Mayo 850",
+      "telefono": "381-4800406"
+    }
+  ],
+  "Bahía Blanca": [
+    {
+      "nombre": "Farmacia Bahía",
+      "direccion": "Av. Alem 400",
+      "telefono": "291-4800407"
+    }
+  ],
+  "Posadas": [
+    {
+      "nombre": "Farmacia Misiones",
+      "direccion": "Av. Mitre 700",
+      "telefono": "376-4800408"
+    }
+  ],
+  "Neuquén": [
+    {
+      "nombre": "Farmacia Neuquén",
+      "direccion": "Av. Argentina 1100",
+      "telefono": "299-4800409"
+    }
+  ],
+  "Salta": [
+    {
+      "nombre": "Farmacia Salta Norte",
+      "direccion": "Calle España 500",
+      "telefono": "387-4800410"
+    }
+  ],
+  "Santa Fe": [
+    {
+      "nombre": "Farmacia Santa Fe",
+      "direccion": "Av. Aristóbulo del Valle 600",
+      "telefono": "342-4800411"
+    }
+  ],
+  "Río Gallegos": [
+    {
+      "nombre": "Farmacia Austral",
+      "direccion": "Av. Kirchner 850",
+      "telefono": "2966-4800412"
+    }
+  ],
+  "San Juan": [
+    {
+      "nombre": "Farmacia San Juan",
+      "direccion": "Av. Libertador 700",
+      "telefono": "264-4800413"
+    }
+  ],
+  "Formosa": [
+    {
+      "nombre": "Farmacia Formosa",
+      "direccion": "Av. 25 de Mayo 500",
+      "telefono": "370-4800414"
+    }
+  ],
+  "Ushuaia": [
+    {
+      "nombre": "Farmacia Fueguina",
+      "direccion": "Av. Maipú 600",
+      "telefono": "2901-4800415"
+    }
+  ]
+}

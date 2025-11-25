@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- Cartilla médica -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="8dp">
+
+        <TextView
+            android:id="@+id/titleCartilla"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cartilla Médica"
+            android:textStyle="bold"
+            android:fontFamily="@font/inter"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnVerCartilla"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ver cartilla"
+            android:textSize="14sp"
+            android:fontFamily="@font/inter"
+            android:backgroundTint="#FFFFFF"
+            android:textColor="#2196F3"
+            android:layout_marginStart="12dp"
+            android:minHeight="0dp"
+            android:minWidth="0dp"/>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/searchCartilla"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Nueva búsqueda"
+        android:fontFamily="@font/inter"
+        android:background="@android:color/white"
+        android:padding="12dp"
+        android:layout_marginBottom="32dp"/>
+
+    <!-- RecyclerView para resultados de cartilla médica -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerCartilla"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"/>
+
+</LinearLayout>

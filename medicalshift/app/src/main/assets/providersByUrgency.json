@@ -1,0 +1,1118 @@
+{
+  "Mar del Plata": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Guardia Clínica Atlántico",
+        "direccion": "Av. Independencia 1450",
+        "telefono": "223-4800101"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Guardia Clínica Atlántico",
+        "direccion": "Av. Independencia 1450",
+        "telefono": "223-4800101"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Guardia Clínica Atlántico",
+        "direccion": "Av. Independencia 1450",
+        "telefono": "223-4800101"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Guardia Clínica Atlántico",
+        "direccion": "Av. Independencia 1450",
+        "telefono": "223-4800101"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Guardia Clínica Atlántico",
+        "direccion": "Av. Independencia 1450",
+        "telefono": "223-4800101"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Guardia Clínica Atlántico",
+        "direccion": "Av. Independencia 1450",
+        "telefono": "223-4800101"
+      }
+    ]
+  },
+  "La Plata": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Emergencias La Plata",
+        "direccion": "Calle 7 N°321",
+        "telefono": "221-4800102"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Emergencias La Plata",
+        "direccion": "Calle 7 N°321",
+        "telefono": "221-4800102"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Emergencias La Plata",
+        "direccion": "Calle 7 N°321",
+        "telefono": "221-4800102"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Emergencias La Plata",
+        "direccion": "Calle 7 N°321",
+        "telefono": "221-4800102"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Emergencias La Plata",
+        "direccion": "Calle 7 N°321",
+        "telefono": "221-4800102"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Emergencias La Plata",
+        "direccion": "Calle 7 N°321",
+        "telefono": "221-4800102"
+      }
+    ]
+  },
+  "Bahía Blanca": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Emergencias Bahía",
+        "direccion": "Av. Alem 321",
+        "telefono": "291-4800107"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Emergencias Bahía",
+        "direccion": "Av. Alem 321",
+        "telefono": "291-4800107"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Emergencias Bahía",
+        "direccion": "Av. Alem 321",
+        "telefono": "291-4800107"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Emergencias Bahía",
+        "direccion": "Av. Alem 321",
+        "telefono": "291-4800107"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Emergencias Bahía",
+        "direccion": "Av. Alem 321",
+        "telefono": "291-4800107"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Emergencias Bahía",
+        "direccion": "Av. Alem 321",
+        "telefono": "291-4800107"
+      }
+    ]
+  },
+  "Palermo": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Caballito": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Recoleta": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "San Fernando del Valle de Catamarca": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Belén": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Tinogasta": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Resistencia": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Villa Ángela": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Presidencia Roque Sáenz Peña": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Comodoro Rivadavia": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Trelew": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Rawson": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Córdoba": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Urgencias Córdoba",
+        "direccion": "Av. Colón 3000",
+        "telefono": "351-4800104"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Urgencias Córdoba",
+        "direccion": "Av. Colón 3000",
+        "telefono": "351-4800104"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Urgencias Córdoba",
+        "direccion": "Av. Colón 3000",
+        "telefono": "351-4800104"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Urgencias Córdoba",
+        "direccion": "Av. Colón 3000",
+        "telefono": "351-4800104"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Urgencias Córdoba",
+        "direccion": "Av. Colón 3000",
+        "telefono": "351-4800104"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Urgencias Córdoba",
+        "direccion": "Av. Colón 3000",
+        "telefono": "351-4800104"
+      }
+    ]
+  },
+  "Villa María": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Río Cuarto": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Corrientes": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Goya": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Mercedes": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Paraná": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Concordia": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Gualeguaychú": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Formosa": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Guardia Integral Formosa",
+        "direccion": "Av. 25 de Mayo 321",
+        "telefono": "370-4800114"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Guardia Integral Formosa",
+        "direccion": "Av. 25 de Mayo 321",
+        "telefono": "370-4800114"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Guardia Integral Formosa",
+        "direccion": "Av. 25 de Mayo 321",
+        "telefono": "370-4800114"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Guardia Integral Formosa",
+        "direccion": "Av. 25 de Mayo 321",
+        "telefono": "370-4800114"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Guardia Integral Formosa",
+        "direccion": "Av. 25 de Mayo 321",
+        "telefono": "370-4800114"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Guardia Integral Formosa",
+        "direccion": "Av. 25 de Mayo 321",
+        "telefono": "370-4800114"
+      }
+    ]
+  },
+  "Clorinda": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Pirané": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "San Salvador de Jujuy": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Palpalá": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Libertador General San Martín": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Santa Rosa": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "General Pico": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Toay": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "La Rioja": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Chilecito": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Aimogasta": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Mendoza": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Centro de Guardia Mendoza",
+        "direccion": "Av. San Martín 456",
+        "telefono": "261-4800105"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Centro de Guardia Mendoza",
+        "direccion": "Av. San Martín 456",
+        "telefono": "261-4800105"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Centro de Guardia Mendoza",
+        "direccion": "Av. San Martín 456",
+        "telefono": "261-4800105"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Centro de Guardia Mendoza",
+        "direccion": "Av. San Martín 456",
+        "telefono": "261-4800105"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Centro de Guardia Mendoza",
+        "direccion": "Av. San Martín 456",
+        "telefono": "261-4800105"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Centro de Guardia Mendoza",
+        "direccion": "Av. San Martín 456",
+        "telefono": "261-4800105"
+      }
+    ]
+  },
+  "San Rafael": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Godoy Cruz": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Posadas": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Guardia Misiones",
+        "direccion": "Av. Mitre 654",
+        "telefono": "376-4800108"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Guardia Misiones",
+        "direccion": "Av. Mitre 654",
+        "telefono": "376-4800108"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Guardia Misiones",
+        "direccion": "Av. Mitre 654",
+        "telefono": "376-4800108"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Guardia Misiones",
+        "direccion": "Av. Mitre 654",
+        "telefono": "376-4800108"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Guardia Misiones",
+        "direccion": "Av. Mitre 654",
+        "telefono": "376-4800108"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Guardia Misiones",
+        "direccion": "Av. Mitre 654",
+        "telefono": "376-4800108"
+      }
+    ]
+  },
+  "Oberá": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Puerto Iguazú": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Neuquén": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Urgencias Neuquén",
+        "direccion": "Av. Argentina 987",
+        "telefono": "299-4800109"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Urgencias Neuquén",
+        "direccion": "Av. Argentina 987",
+        "telefono": "299-4800109"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Urgencias Neuquén",
+        "direccion": "Av. Argentina 987",
+        "telefono": "299-4800109"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Urgencias Neuquén",
+        "direccion": "Av. Argentina 987",
+        "telefono": "299-4800109"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Urgencias Neuquén",
+        "direccion": "Av. Argentina 987",
+        "telefono": "299-4800109"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Urgencias Neuquén",
+        "direccion": "Av. Argentina 987",
+        "telefono": "299-4800109"
+      }
+    ]
+  },
+  "Cutral Có": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "San Martín de los Andes": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Viedma": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Bariloche": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "General Roca": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Salta": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Guardia Salta",
+        "direccion": "Calle España 321",
+        "telefono": "387-4800110"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Guardia Salta",
+        "direccion": "Calle España 321",
+        "telefono": "387-4800110"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Guardia Salta",
+        "direccion": "Calle España 321",
+        "telefono": "387-4800110"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Guardia Salta",
+        "direccion": "Calle España 321",
+        "telefono": "387-4800110"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Guardia Salta",
+        "direccion": "Calle España 321",
+        "telefono": "387-4800110"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Guardia Salta",
+        "direccion": "Calle España 321",
+        "telefono": "387-4800110"
+      }
+    ]
+  },
+  "Tartagal": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Orán": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "San Juan": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Urgencias San Juan",
+        "direccion": "Av. Libertador 654",
+        "telefono": "264-4800113"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Urgencias San Juan",
+        "direccion": "Av. Libertador 654",
+        "telefono": "264-4800113"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Urgencias San Juan",
+        "direccion": "Av. Libertador 654",
+        "telefono": "264-4800113"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Urgencias San Juan",
+        "direccion": "Av. Libertador 654",
+        "telefono": "264-4800113"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Urgencias San Juan",
+        "direccion": "Av. Libertador 654",
+        "telefono": "264-4800113"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Urgencias San Juan",
+        "direccion": "Av. Libertador 654",
+        "telefono": "264-4800113"
+      }
+    ]
+  },
+  "Jáchas": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Chimbas": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "San Luis": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Villa Mercedes": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "La Punta": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Río Gallegos": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Guardia Austral",
+        "direccion": "Av. Kirchner 789",
+        "telefono": "2966-4800112"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Guardia Austral",
+        "direccion": "Av. Kirchner 789",
+        "telefono": "2966-4800112"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Guardia Austral",
+        "direccion": "Av. Kirchner 789",
+        "telefono": "2966-4800112"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Guardia Austral",
+        "direccion": "Av. Kirchner 789",
+        "telefono": "2966-4800112"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Guardia Austral",
+        "direccion": "Av. Kirchner 789",
+        "telefono": "2966-4800112"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Guardia Austral",
+        "direccion": "Av. Kirchner 789",
+        "telefono": "2966-4800112"
+      }
+    ]
+  },
+  "Caleta Olivia": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "El Calafate": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Rosario": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Guardia Médica Rosario",
+        "direccion": "Bv. Oroño 2345",
+        "telefono": "341-4800103"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Guardia Médica Rosario",
+        "direccion": "Bv. Oroño 2345",
+        "telefono": "341-4800103"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Guardia Médica Rosario",
+        "direccion": "Bv. Oroño 2345",
+        "telefono": "341-4800103"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Guardia Médica Rosario",
+        "direccion": "Bv. Oroño 2345",
+        "telefono": "341-4800103"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Guardia Médica Rosario",
+        "direccion": "Bv. Oroño 2345",
+        "telefono": "341-4800103"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Guardia Médica Rosario",
+        "direccion": "Bv. Oroño 2345",
+        "telefono": "341-4800103"
+      }
+    ]
+  },
+  "Santa Fe": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Emergencias Santa Fe",
+        "direccion": "Av. Aristóbulo del Valle 456",
+        "telefono": "342-4800111"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Emergencias Santa Fe",
+        "direccion": "Av. Aristóbulo del Valle 456",
+        "telefono": "342-4800111"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Emergencias Santa Fe",
+        "direccion": "Av. Aristóbulo del Valle 456",
+        "telefono": "342-4800111"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Emergencias Santa Fe",
+        "direccion": "Av. Aristóbulo del Valle 456",
+        "telefono": "342-4800111"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Emergencias Santa Fe",
+        "direccion": "Av. Aristóbulo del Valle 456",
+        "telefono": "342-4800111"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Emergencias Santa Fe",
+        "direccion": "Av. Aristóbulo del Valle 456",
+        "telefono": "342-4800111"
+      }
+    ]
+  },
+  "Rafaela": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Santiago del Estero": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "La Banda": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Frías": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Ushuaia": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Clínica Fueguina de Guardia",
+        "direccion": "Av. Maipú 456",
+        "telefono": "2901-4800115"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Clínica Fueguina de Guardia",
+        "direccion": "Av. Maipú 456",
+        "telefono": "2901-4800115"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Clínica Fueguina de Guardia",
+        "direccion": "Av. Maipú 456",
+        "telefono": "2901-4800115"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Clínica Fueguina de Guardia",
+        "direccion": "Av. Maipú 456",
+        "telefono": "2901-4800115"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Clínica Fueguina de Guardia",
+        "direccion": "Av. Maipú 456",
+        "telefono": "2901-4800115"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Clínica Fueguina de Guardia",
+        "direccion": "Av. Maipú 456",
+        "telefono": "2901-4800115"
+      }
+    ]
+  },
+  "Río Grande": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Tolhuin": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "San Miguel de Tucumán": {
+    "GUARDIA CARDIOLÓGICA": [
+      {
+        "nombre": "Clínica de Guardia Tucumán",
+        "direccion": "25 de Mayo 789",
+        "telefono": "381-4800106"
+      }
+    ],
+    "GUARDIA MÉDICA": [
+      {
+        "nombre": "Clínica de Guardia Tucumán",
+        "direccion": "25 de Mayo 789",
+        "telefono": "381-4800106"
+      }
+    ],
+    "GUARDIA ODONTOLÓGICA": [
+      {
+        "nombre": "Clínica de Guardia Tucumán",
+        "direccion": "25 de Mayo 789",
+        "telefono": "381-4800106"
+      }
+    ],
+    "GUARDIA OFTALMOLÓGICA": [
+      {
+        "nombre": "Clínica de Guardia Tucumán",
+        "direccion": "25 de Mayo 789",
+        "telefono": "381-4800106"
+      }
+    ],
+    "GUARDIA PEDIÁTRICA": [
+      {
+        "nombre": "Clínica de Guardia Tucumán",
+        "direccion": "25 de Mayo 789",
+        "telefono": "381-4800106"
+      }
+    ],
+    "GUARDIA TRAUMATOLÓGICA": [
+      {
+        "nombre": "Clínica de Guardia Tucumán",
+        "direccion": "25 de Mayo 789",
+        "telefono": "381-4800106"
+      }
+    ]
+  },
+  "Yerba Buena": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  },
+  "Tafí Viejo": {
+    "GUARDIA CARDIOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA MÉDICA": "Servicio no disponible aún",
+    "GUARDIA ODONTOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA OFTALMOLÓGICA": "Servicio no disponible aún",
+    "GUARDIA PEDIÁTRICA": "Servicio no disponible aún",
+    "GUARDIA TRAUMATOLÓGICA": "Servicio no disponible aún"
+  }
+}

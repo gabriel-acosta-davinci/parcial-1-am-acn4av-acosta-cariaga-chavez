@@ -1,0 +1,107 @@
+{
+  "Mar del Plata": [
+    {
+      "nombre": "Vacunatorio Atlántico",
+      "direccion": "Av. Independencia 1300",
+      "telefono": "223-4800501"
+    }
+  ],
+  "La Plata": [
+    {
+      "nombre": "Vacunatorio Central La Plata",
+      "direccion": "Calle 9 N°456",
+      "telefono": "221-4800502"
+    }
+  ],
+  "Rosario": [
+    {
+      "nombre": "Vacunatorio Oroño",
+      "direccion": "Bv. Oroño 2200",
+      "telefono": "341-4800503"
+    }
+  ],
+  "Córdoba": [
+    {
+      "nombre": "Vacunatorio Mediterráneo",
+      "direccion": "Av. Colón 2900",
+      "telefono": "351-4800504"
+    }
+  ],
+  "Mendoza": [
+    {
+      "nombre": "Vacunatorio San Martín",
+      "direccion": "Av. San Martín 650",
+      "telefono": "261-4800505"
+    }
+  ],
+  "San Miguel de Tucumán": [
+    {
+      "nombre": "Vacunatorio Tucumán",
+      "direccion": "25 de Mayo 860",
+      "telefono": "381-4800506"
+    }
+  ],
+  "Bahía Blanca": [
+    {
+      "nombre": "Vacunatorio Bahía",
+      "direccion": "Av. Alem 420",
+      "telefono": "291-4800507"
+    }
+  ],
+  "Posadas": [
+    {
+      "nombre": "Vacunatorio Misiones",
+      "direccion": "Av. Mitre 720",
+      "telefono": "376-4800508"
+    }
+  ],
+  "Neuquén": [
+    {
+      "nombre": "Vacunatorio Neuquén",
+      "direccion": "Av. Argentina 1150",
+      "telefono": "299-4800509"
+    }
+  ],
+  "Salta": [
+    {
+      "nombre": "Vacunatorio Salta Norte",
+      "direccion": "Calle España 520",
+      "telefono": "387-4800510"
+    }
+  ],
+  "Santa Fe": [
+    {
+      "nombre": "Vacunatorio Santa Fe",
+      "direccion": "Av. Aristóbulo del Valle 620",
+      "telefono": "342-4800511"
+    }
+  ],
+  "Río Gallegos": [
+    {
+      "nombre": "Vacunatorio Austral",
+      "direccion": "Av. Kirchner 870",
+      "telefono": "2966-4800512"
+    }
+  ],
+  "San Juan": [
+    {
+      "nombre": "Vacunatorio San Juan",
+      "direccion": "Av. Libertador 720",
+      "telefono": "264-4800513"
+    }
+  ],
+  "Formosa": [
+    {
+      "nombre": "Vacunatorio Formosa",
+      "direccion": "Av. 25 de Mayo 520",
+      "telefono": "370-4800514"
+    }
+  ],
+  "Ushuaia": [
+    {
+      "nombre": "Vacunatorio Fueguino",
+      "direccion": "Av. Maipú 620",
+      "telefono": "2901-4800515"
+    }
+  ]
+}

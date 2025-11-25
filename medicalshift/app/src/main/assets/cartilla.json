@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "especialidad": "ODONTOLOGÍA",
+    "direccion": "Av. Siempreviva 742",
+    "telefono": "+54 11 1234-5678"
+  },
+  {
+    "id": 2,
+    "nombre": "María García",
+    "especialidad": "CARDIOLOGÍA",
+    "direccion": "Calle Falsa 123",
+    "telefono": "+54 11 8765-4321"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos Rodriguez",
+    "especialidad": "PEDIATRÍA",
+    "direccion": "Av. de Mayo 555",
+    "telefono": "+54 11 5555-5555"
+  }
+]

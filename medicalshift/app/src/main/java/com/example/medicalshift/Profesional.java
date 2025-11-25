@@ -1,17 +1,26 @@
 package com.example.medicalshift;
 
-public class Profesional {
-    private String nombre;
-    private String especialidad;
-    private String localidad;
+import org.json.JSONException;
+import org.json.JSONObject;
 
-    public Profesional(String nombre, String especialidad, String localidad) {
-        this.nombre = nombre;
-        this.especialidad = especialidad;
-        this.localidad = localidad;
+public class Profesional {
+    private final String nombre;
+    private final String especialidad;
+    private final String institucion;
+    private final String direccion;
+    private final String localidad;
+    private final String telefono;
+
+    public Profesional(JSONObject object) throws JSONException {
+        this.nombre = object.getString("nombre");
+        this.especialidad = object.getString("especialidad");
+        this.institucion = object.getString("institucion");
+        this.direccion = object.getString("direccion");
+        this.localidad = object.getString("localidad");
+        this.telefono = object.getString("telefono");
     }
 
+    // Getters
     public String getNombre() { return nombre; }
     public String getEspecialidad() { return especialidad; }
-    public String getLocalidad() { return localidad; }
 }

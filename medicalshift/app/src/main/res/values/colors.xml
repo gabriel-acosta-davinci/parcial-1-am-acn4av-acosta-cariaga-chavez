@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Sky palette (inspirado en Tailwind) -->
+    <color name="sky_200">#BAE6FD</color>
+    <color name="sky_400">#38BDF8</color>
+    <color name="sky_500">#0EA5E9</color>
+    <color name="sky_600">#0284C7</color>
+
+    <!-- Texto -->
+    <color name="text_primary">#334155</color> <!-- slate-700 -->
+    <color name="text_secondary">#666666</color>
+
+    <!-- Estados -->
+    <color name="estado_aprobado">#4CAF50</color> <!-- verde -->
+    <color name="estado_pendiente">#FFC107</color> <!-- amarillo -->
+    <color name="estado_rechazado">#F44336</color> <!-- rojo -->
 </resources>

@@ -16,8 +16,8 @@ public class FragmentAdapter extends FragmentStateAdapter {
     public Fragment createFragment(int position) {
         switch (position) {
             case 0: return new InicioFragment();
-            case 1: return new TramitesFragment();
-            case 2: return new CartillaFragment();
+            case 1: return new CartillaFragment();
+            case 2: return new TramitesFragment();
             case 3: return new PerfilFragment();
             default: return new InicioFragment();
         }

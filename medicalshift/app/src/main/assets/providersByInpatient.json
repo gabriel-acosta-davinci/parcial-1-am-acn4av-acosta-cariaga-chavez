@@ -1,0 +1,470 @@
+{
+  "Mar del Plata": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Clínica del Mar",
+        "direccion": "Av. Independencia 1500",
+        "telefono": "223-4800201"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Clínica del Mar",
+        "direccion": "Av. Independencia 1500",
+        "telefono": "223-4800201"
+      }
+    ]
+  },
+  "La Plata": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Sanatorio Platense",
+        "direccion": "Calle 8 N°456",
+        "telefono": "221-4800202"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Sanatorio Platense",
+        "direccion": "Calle 8 N°456",
+        "telefono": "221-4800202"
+      }
+    ]
+  },
+  "Bahía Blanca": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Sanatorio Bahía",
+        "direccion": "Av. Alem 654",
+        "telefono": "291-4800207"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Sanatorio Bahía",
+        "direccion": "Av. Alem 654",
+        "telefono": "291-4800207"
+      }
+    ]
+  },
+  "Palermo": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Caballito": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Recoleta": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "San Fernando del Valle de Catamarca": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Belén": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Tinogasta": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Resistencia": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Villa Ángela": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Presidencia Roque Sáenz Peña": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Comodoro Rivadavia": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Trelew": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Rawson": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Córdoba": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Clínica Mediterránea",
+        "direccion": "Av. Colón 3500",
+        "telefono": "351-4800204"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Clínica Mediterránea",
+        "direccion": "Av. Colón 3500",
+        "telefono": "351-4800204"
+      }
+    ]
+  },
+  "Villa María": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Río Cuarto": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Corrientes": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Goya": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Mercedes": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Paraná": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Concordia": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Gualeguaychú": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Formosa": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Centro Psiquiátrico Formosa",
+        "direccion": "Av. 25 de Mayo 654",
+        "telefono": "370-4800214"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Centro Psiquiátrico Formosa",
+        "direccion": "Av. 25 de Mayo 654",
+        "telefono": "370-4800214"
+      }
+    ]
+  },
+  "Clorinda": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Pirané": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "San Salvador de Jujuy": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Palpalá": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Libertador General San Martín": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Santa Rosa": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "General Pico": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Toay": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "La Rioja": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Chilecito": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Aimogasta": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Mendoza": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Hospital Central Mendoza",
+        "direccion": "Av. San Martín 789",
+        "telefono": "261-4800205"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Hospital Central Mendoza",
+        "direccion": "Av. San Martín 789",
+        "telefono": "261-4800205"
+      }
+    ]
+  },
+  "San Rafael": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Godoy Cruz": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Posadas": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Clínica Misiones",
+        "direccion": "Av. Mitre 789",
+        "telefono": "376-4800208"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Clínica Misiones",
+        "direccion": "Av. Mitre 789",
+        "telefono": "376-4800208"
+      }
+    ]
+  },
+  "Oberá": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Puerto Iguazú": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Neuquén": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Internación Neuquén",
+        "direccion": "Av. Argentina 1200",
+        "telefono": "299-4800209"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Internación Neuquén",
+        "direccion": "Av. Argentina 1200",
+        "telefono": "299-4800209"
+      }
+    ]
+  },
+  "Cutral Có": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "San Martín de los Andes": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Viedma": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Bariloche": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "General Roca": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Salta": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Clínica Salta Norte",
+        "direccion": "Calle España 456",
+        "telefono": "387-4800210"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Clínica Salta Norte",
+        "direccion": "Calle España 456",
+        "telefono": "387-4800210"
+      }
+    ]
+  },
+  "Tartagal": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Orán": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "San Juan": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Clínica San Juan",
+        "direccion": "Av. Libertador 789",
+        "telefono": "264-4800213"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Clínica San Juan",
+        "direccion": "Av. Libertador 789",
+        "telefono": "264-4800213"
+      }
+    ]
+  },
+  "Jáchas": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Chimbas": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "San Luis": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Villa Mercedes": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "La Punta": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Río Gallegos": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Internación Austral",
+        "direccion": "Av. Kirchner 987",
+        "telefono": "2966-4800212"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Internación Austral",
+        "direccion": "Av. Kirchner 987",
+        "telefono": "2966-4800212"
+      }
+    ]
+  },
+  "Caleta Olivia": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "El Calafate": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Rosario": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Instituto de Internación Rosario",
+        "direccion": "Bv. Oroño 3000",
+        "telefono": "341-4800203"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Instituto de Internación Rosario",
+        "direccion": "Bv. Oroño 3000",
+        "telefono": "341-4800203"
+      }
+    ]
+  },
+  "Santa Fe": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Hospital Santa Fe",
+        "direccion": "Av. Aristóbulo del Valle 789",
+        "telefono": "342-4800211"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Hospital Santa Fe",
+        "direccion": "Av. Aristóbulo del Valle 789",
+        "telefono": "342-4800211"
+      }
+    ]
+  },
+  "Rafaela": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Santiago del Estero": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "La Banda": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Frías": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Ushuaia": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Clínica Fueguina de Internación",
+        "direccion": "Av. Maipú 789",
+        "telefono": "2901-4800215"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Clínica Fueguina de Internación",
+        "direccion": "Av. Maipú 789",
+        "telefono": "2901-4800215"
+      }
+    ]
+  },
+  "Río Grande": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Tolhuin": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "San Miguel de Tucumán": {
+    "INTERNACIÓN": [
+      {
+        "nombre": "Centro de Internación Tucumán",
+        "direccion": "25 de Mayo 987",
+        "telefono": "381-4800206"
+      }
+    ],
+    "INTERNACIÓN PSIQUIÁTRICA": [
+      {
+        "nombre": "Centro de Internación Tucumán",
+        "direccion": "25 de Mayo 987",
+        "telefono": "381-4800206"
+      }
+    ]
+  },
+  "Yerba Buena": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  },
+  "Tafí Viejo": {
+    "INTERNACIÓN": "Servicio no disponible aún",
+    "INTERNACIÓN PSIQUIÁTRICA": "Servicio no disponible aún"
+  }
+}

@@ -1,14 +1,94 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg_gradient">
+    android:background="@drawable/bg_gradient"
+    tools:context=".CartillaFragment">
 
     <TextView
+        android:id="@+id/titleCartilla"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ventana de Cartilla"
-        android:textSize="22sp"
-        android:textColor="#FFFFFF"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="60dp"
         android:fontFamily="@font/inter"
-        android:layout_centerInParent="true"/>
-</RelativeLayout>
+        android:text="Cartilla"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/subtitleCartilla"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/inter"
+        android:text="Encontrá el especialista perfecto para vos en nuestra cartilla de prestadores"
+        android:textColor="#0F0900"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/titleCartilla"
+        app:layout_constraintTop_toBottomOf="@id/titleCartilla" />
+
+    <TextView
+        android:id="@+id/titleMasBuscados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/inter"
+        android:text="Más buscados"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@id/subtitleCartilla"
+        app:layout_constraintTop_toBottomOf="@id/subtitleCartilla" />
+
+    <TextView
+        android:id="@+id/subtitleMasBuscados"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/inter"
+        android:text="Estas son las categorías más buscadas en este último tiempo"
+        android:textColor="#0F0900"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/titleMasBuscados"
+        app:layout_constraintTop_toBottomOf="@id/titleMasBuscados" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerMasBuscados"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        android:paddingHorizontal="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/subtitleMasBuscados"
+        app:layout_constraintBottom_toTopOf="@+id/btnNuevaBusqueda"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:listitem="@layout/item_especialidad_buscada"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnNuevaBusqueda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#FFFFFF"
+        android:elevation="4dp"
+        android:fontFamily="@font/inter"
+        android:text="Nueva búsqueda"
+        android:textColor="#2196F3"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:cornerRadius="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

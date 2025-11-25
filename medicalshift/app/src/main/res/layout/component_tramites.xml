@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginBottom="24dp">
+
+    <!-- Título y botón -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="8dp">
+
+        <TextView
+            android:id="@+id/titleTramites"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Últimos Trámites"
+            android:textStyle="bold"
+            android:fontFamily="@font/inter"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnVerTramites"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ver todos"
+            android:textSize="14sp"
+            android:fontFamily="@font/inter"
+            android:backgroundTint="#FFFFFF"
+            android:textColor="#2196F3"
+            android:layout_marginStart="12dp"
+            android:minHeight="0dp"
+            android:minWidth="0dp"/>
+    </LinearLayout>
+
+    <!-- Lista de trámites -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerTramites"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
